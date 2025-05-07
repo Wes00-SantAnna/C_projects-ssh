@@ -1,0 +1,9 @@
+A: 3 B: 15 C: 4 D: 4
+A: 29 B: 15 C: 30 D: 30
+A: 45 B: 17 C: 34 D: 34
+A: 46 B: 38 C: 36 D: 36
+A: 50 B: 57 C: 37 D: 38
+A: 52 B: 75 C: 39 D: 42
+A: 56 B: 93 C: 40 D: 45
+A: 58 B: 112 C: 42 D: 48
+Vencedor: jogador C; Ultimo lugar: jogador B
