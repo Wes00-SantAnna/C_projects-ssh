@@ -44,3 +44,12 @@ Criar um programa que converta números da notação **TMTL** (Tenho-Muito-Tempo
 ```
 
 ---
+
+### 🛠️ Compilação e Execução
+
+```bash
+gcc tmtl_dec.c -o tmtl
+./tmtl
+```
+
+---
